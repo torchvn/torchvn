@@ -6,7 +6,7 @@
 ![nothing](https://i.pinimg.com/originals/49/0f/a3/490fa31eb98ab3348f0adb4a78577095.jpg) -->
 ### 🤵 About Me:
 - 🏦 Software developer from Vietnam  
-- 💻 I use daily **.java**, **.elastic search**, **.kafka**, **.redis**, **.mongodb**, **.mysql**, **.reactjs**
+- 💻 I use daily **Java**, **Elastic Search**, **Kafka**, **Redis**, **Mongodb**, **Mysql**, **Reactjs**
 - 💬 Talk to me about technology
 - 👯 We can connect to play some games
 
