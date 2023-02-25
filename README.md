@@ -8,7 +8,7 @@
 - 🏦 Software developer from Vietnam  
 - 💻 I use daily **Java**, **Elastic Search**, **Kafka**, **Redis**, **Mongodb**, **Mysql**, **Reactjs**
 - 💬 Talk to me about technology
-- 👯 We can connect to play some games
+- 👯 We can connect to make money
 
 # 🔭 Languages and Tools:
 
